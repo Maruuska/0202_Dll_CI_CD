@@ -41,5 +41,16 @@ namespace ColorDllTests
         }
         //"#DEB487"
         //Результат должен быть: hsl(31.034, 57%, 70%)
+
+        [Test]
+        public void Test4()
+        {
+            string act = ConverterColor.FromHSLinHEX("hsl(31.034, 57%, 70%)");
+            Assert.AreEqual("#DEB486", act);
+        }
+        //"hsl(31.034, 57%, 70%)"
+        //#DEB486
+
+
     }
 }

@@ -34,7 +34,7 @@ namespace DllColor
         public static string FromHEXinHSL(string colorHEX)
         {
             // Анализ HEX-цвета из строки 
-            var color = Aspose.Svg.Drawing.Color.FromString("#DEB487");
+            var color = Aspose.Svg.Drawing.Color.FromString(colorHEX);
 
             // Преобразование HEX в HSL 
             string hslColor = color.Convert(ColorModel.Hsl).ToString(false, false, 0);
