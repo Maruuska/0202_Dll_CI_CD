@@ -1,0 +1,12 @@
+D:\Dunaeva\DllCveta\DllCveta\bin\Debug\net8.0\DllColor.deps.json
+D:\Dunaeva\DllCveta\DllCveta\bin\Debug\net8.0\DllColor.dll
+D:\Dunaeva\DllCveta\DllCveta\bin\Debug\net8.0\DllColor.pdb
+D:\Dunaeva\DllCveta\DllCveta\obj\Debug\net8.0\DllColor.csproj.AssemblyReference.cache
+D:\Dunaeva\DllCveta\DllCveta\obj\Debug\net8.0\DllColor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dunaeva\DllCveta\DllCveta\obj\Debug\net8.0\DllColor.AssemblyInfoInputs.cache
+D:\Dunaeva\DllCveta\DllCveta\obj\Debug\net8.0\DllColor.AssemblyInfo.cs
+D:\Dunaeva\DllCveta\DllCveta\obj\Debug\net8.0\DllColor.csproj.CoreCompileInputs.cache
+D:\Dunaeva\DllCveta\DllCveta\obj\Debug\net8.0\DllColor.dll
+D:\Dunaeva\DllCveta\DllCveta\obj\Debug\net8.0\refint\DllColor.dll
+D:\Dunaeva\DllCveta\DllCveta\obj\Debug\net8.0\DllColor.pdb
+D:\Dunaeva\DllCveta\DllCveta\obj\Debug\net8.0\ref\DllColor.dll
