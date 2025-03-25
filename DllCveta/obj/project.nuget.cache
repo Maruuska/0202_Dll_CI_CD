@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CGNkIXvwd8Q=",
+  "dgSpecHash": "2ZK2+H9kQdk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Юзер\\Desktop\\cicd\\dllCICD\\DllCveta\\DllColor.csproj",
+  "projectFilePath": "C:\\Users\\Юзер\\Desktop\\dllCICD\\DllCveta\\DllColor.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Юзер\\.nuget\\packages\\aspose.svg\\25.3.0\\aspose.svg.25.3.0.nupkg.sha512",
     "C:\\Users\\Юзер\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",

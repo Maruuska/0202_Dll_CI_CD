@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "z+ESAzgdnl4=",
+  "dgSpecHash": "WECv2jtIaAw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Юзер\\Desktop\\cicd\\dllCICD\\ColorDllTests\\ColorDllTests.csproj",
+  "projectFilePath": "C:\\Users\\Юзер\\Desktop\\dllCICD\\ColorDllTests\\ColorDllTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Юзер\\.nuget\\packages\\aspose.svg\\25.3.0\\aspose.svg.25.3.0.nupkg.sha512",
     "C:\\Users\\Юзер\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",

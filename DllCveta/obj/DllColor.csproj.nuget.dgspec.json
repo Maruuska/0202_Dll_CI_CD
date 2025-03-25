@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Юзер\\Desktop\\cicd\\dllCICD\\DllCveta\\DllColor.csproj": {}
+    "C:\\Users\\Юзер\\Desktop\\dllCICD\\DllCveta\\DllColor.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Юзер\\Desktop\\cicd\\dllCICD\\DllCveta\\DllColor.csproj": {
+    "C:\\Users\\Юзер\\Desktop\\dllCICD\\DllCveta\\DllColor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Юзер\\Desktop\\cicd\\dllCICD\\DllCveta\\DllColor.csproj",
+        "projectUniqueName": "C:\\Users\\Юзер\\Desktop\\dllCICD\\DllCveta\\DllColor.csproj",
         "projectName": "DllColor",
-        "projectPath": "C:\\Users\\Юзер\\Desktop\\cicd\\dllCICD\\DllCveta\\DllColor.csproj",
+        "projectPath": "C:\\Users\\Юзер\\Desktop\\dllCICD\\DllCveta\\DllColor.csproj",
         "packagesPath": "C:\\Users\\Юзер\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Юзер\\Desktop\\cicd\\dllCICD\\DllCveta\\obj\\",
+        "outputPath": "C:\\Users\\Юзер\\Desktop\\dllCICD\\DllCveta\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
