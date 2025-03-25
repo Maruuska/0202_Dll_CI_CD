@@ -36,7 +36,7 @@
 # For a complete CI/CD sample to get started with GitHub Action workflows for Desktop Applications,
 # refer to https://github.com/microsoft/github-actions-for-desktop-apps
 
-name: .NET Core Desktop
+# name: .NET Core Desktop
 
 # on:
 #   push:
@@ -114,16 +114,18 @@ name: .NET Core Desktop
 #         name: MSIX Package
 #         path: ${{ env.Wap_Project_Directory }}\AppPackages
 
+name: build and test
+
 on:
   push:
   pull_request:
-    branches: [ main ]
+    branches: [ master ]
     paths:
     - '**.cs'
     - '**.csproj'
 
 env:
-  DOTNET_VERSION: '6.0.401' # The .NET SDK version to use
+  DOTNET_VERSION: '8.0.0' # The .NET SDK version to use
 
 jobs:
   build-and-test:
@@ -132,7 +134,7 @@ jobs:
     runs-on: ${{ matrix.os }}
     strategy:
       matrix:
-        os: [ubuntu-latest, windows-latest, macOS-latest]
+        os: [ windows-latest]
 
     steps:
     - uses: actions/checkout@v3
