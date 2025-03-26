@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DllColor", "DllCveta\DllCol
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColorDllTests", "ColorDllTests\ColorDllTests.csproj", "{7D645963-3B5F-4FB5-BBDA-FFDC37A4F69A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamplesUsingMethods", "ExamplesUsingMethods\ExamplesUsingMethods.csproj", "{78092F5C-25AF-4870-9B03-ED1FB7B9A4B1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{7D645963-3B5F-4FB5-BBDA-FFDC37A4F69A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7D645963-3B5F-4FB5-BBDA-FFDC37A4F69A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7D645963-3B5F-4FB5-BBDA-FFDC37A4F69A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78092F5C-25AF-4870-9B03-ED1FB7B9A4B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78092F5C-25AF-4870-9B03-ED1FB7B9A4B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78092F5C-25AF-4870-9B03-ED1FB7B9A4B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78092F5C-25AF-4870-9B03-ED1FB7B9A4B1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
