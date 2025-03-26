@@ -91,4 +91,3 @@ namespace DllColor
         }
     }
 }
-//внесение изменений
