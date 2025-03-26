@@ -14,7 +14,7 @@ namespace DllColor
         {
             if (color == null || color.IsEmpty)  //обработка пустой структуры color
             {
-                return "параметр color равен null";
+                return "the color parameter is null";
             }
             try
             {
@@ -22,7 +22,7 @@ namespace DllColor
             }
             catch(Exception ex)
             {
-                return "Ошибка при преобразовании RGB в HEX";
+                return "Error when converting RGB to HEX";
             }
             
         }
@@ -34,7 +34,7 @@ namespace DllColor
         {
             if(string.IsNullOrEmpty(colorHEX))   //обработка пустой строки colorHEX
             {
-                return "входная строка пустая или null";
+                return "the input string is empty or null";
             }
             try
             {
@@ -45,7 +45,7 @@ namespace DllColor
             }
             catch (Exception ex)
             {
-                return "Ошибка при преобразовании HEX в RGB";
+                return "Error when converting HEX to RGB";
             }
         }
 
@@ -56,7 +56,7 @@ namespace DllColor
         {
             if (string.IsNullOrEmpty(colorHEX))   //обработка пустой строки colorHEX
             {
-                return "входная строка пустая или null";
+                return "the input string is empty or null";
             }
             try
             {
@@ -67,7 +67,7 @@ namespace DllColor
             }
             catch (Exception ex) 
             {
-                return "Ошибка при преобразовании HEX в HSL";
+                return "Error when converting HEX to HSL";
             }
         }
 
@@ -78,7 +78,7 @@ namespace DllColor
         {
             if (color == null)  //обработка пустой структуры color
             {
-                return "параметр color равен null";
+                return "the color parameter is null";
             }
             try
             {
@@ -86,7 +86,7 @@ namespace DllColor
             }
             catch (Exception ex) 
             {
-                return "Ошибка при преобразовании RGB в HSL";
+                return "Error when converting RGB to HSL";
             }
         }
     }
