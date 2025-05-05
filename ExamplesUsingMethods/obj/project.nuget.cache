@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "C553o2buFhk=",
+  "dgSpecHash": "Ogt/pb99hbY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Юзер\\Desktop\\0202_Dll_CI_CD\\ExamplesUsingMethods\\ExamplesUsingMethods.csproj",
+  "projectFilePath": "C:\\Users\\Юзер\\Desktop\\cicd\\Test\\ExamplesUsingMethods\\ExamplesUsingMethods.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Юзер\\.nuget\\packages\\aspose.svg\\25.3.0\\aspose.svg.25.3.0.nupkg.sha512",
     "C:\\Users\\Юзер\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",

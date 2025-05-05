@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ColorDllTests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d42a1b12a74abc3318afcd4ab275631cc35fe514")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eed35c4414b78d81abbbf35a69082ba6c5af8387")]
 [assembly: System.Reflection.AssemblyProductAttribute("ColorDllTests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ColorDllTests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

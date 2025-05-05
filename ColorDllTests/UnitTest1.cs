@@ -6,6 +6,7 @@ namespace ColorDllTests
 {
     public class Tests
     {
+
         // Тест для проверки, что корректный цвет rgb правильно переводится в цвет hex
         [Test]
         public void TestRGBtoHEX()

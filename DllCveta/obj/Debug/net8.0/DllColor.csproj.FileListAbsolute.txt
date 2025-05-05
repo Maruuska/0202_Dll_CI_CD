@@ -47,3 +47,29 @@ C:\Users\Юзер\Desktop\0202_Dll_CI_CD\DllCveta\obj\Debug\net8.0\DllColor.dll
 C:\Users\Юзер\Desktop\0202_Dll_CI_CD\DllCveta\obj\Debug\net8.0\refint\DllColor.dll
 C:\Users\Юзер\Desktop\0202_Dll_CI_CD\DllCveta\obj\Debug\net8.0\DllColor.pdb
 C:\Users\Юзер\Desktop\0202_Dll_CI_CD\DllCveta\obj\Debug\net8.0\ref\DllColor.dll
+C:\Users\Юзер\Desktop\дз\3 курс\МДК 02.02 (Мамшева)\0202_Dll_CI_CD\DllCveta\bin\Debug\net8.0\DllColor.deps.json
+C:\Users\Юзер\Desktop\дз\3 курс\МДК 02.02 (Мамшева)\0202_Dll_CI_CD\DllCveta\bin\Debug\net8.0\DllColor.dll
+C:\Users\Юзер\Desktop\дз\3 курс\МДК 02.02 (Мамшева)\0202_Dll_CI_CD\DllCveta\bin\Debug\net8.0\DllColor.pdb
+C:\Users\Юзер\Desktop\дз\3 курс\МДК 02.02 (Мамшева)\0202_Dll_CI_CD\DllCveta\obj\Debug\net8.0\DllColor.csproj.AssemblyReference.cache
+C:\Users\Юзер\Desktop\дз\3 курс\МДК 02.02 (Мамшева)\0202_Dll_CI_CD\DllCveta\obj\Debug\net8.0\DllColor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Юзер\Desktop\дз\3 курс\МДК 02.02 (Мамшева)\0202_Dll_CI_CD\DllCveta\obj\Debug\net8.0\DllColor.AssemblyInfoInputs.cache
+C:\Users\Юзер\Desktop\дз\3 курс\МДК 02.02 (Мамшева)\0202_Dll_CI_CD\DllCveta\obj\Debug\net8.0\DllColor.AssemblyInfo.cs
+C:\Users\Юзер\Desktop\дз\3 курс\МДК 02.02 (Мамшева)\0202_Dll_CI_CD\DllCveta\obj\Debug\net8.0\DllColor.csproj.CoreCompileInputs.cache
+C:\Users\Юзер\Desktop\дз\3 курс\МДК 02.02 (Мамшева)\0202_Dll_CI_CD\DllCveta\obj\Debug\net8.0\DllColor.sourcelink.json
+C:\Users\Юзер\Desktop\дз\3 курс\МДК 02.02 (Мамшева)\0202_Dll_CI_CD\DllCveta\obj\Debug\net8.0\DllColor.dll
+C:\Users\Юзер\Desktop\дз\3 курс\МДК 02.02 (Мамшева)\0202_Dll_CI_CD\DllCveta\obj\Debug\net8.0\refint\DllColor.dll
+C:\Users\Юзер\Desktop\дз\3 курс\МДК 02.02 (Мамшева)\0202_Dll_CI_CD\DllCveta\obj\Debug\net8.0\DllColor.pdb
+C:\Users\Юзер\Desktop\дз\3 курс\МДК 02.02 (Мамшева)\0202_Dll_CI_CD\DllCveta\obj\Debug\net8.0\ref\DllColor.dll
+C:\Users\Юзер\Desktop\cicd\Test\DllCveta\bin\Debug\net8.0\DllColor.deps.json
+C:\Users\Юзер\Desktop\cicd\Test\DllCveta\bin\Debug\net8.0\DllColor.dll
+C:\Users\Юзер\Desktop\cicd\Test\DllCveta\bin\Debug\net8.0\DllColor.pdb
+C:\Users\Юзер\Desktop\cicd\Test\DllCveta\obj\Debug\net8.0\DllColor.csproj.AssemblyReference.cache
+C:\Users\Юзер\Desktop\cicd\Test\DllCveta\obj\Debug\net8.0\DllColor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Юзер\Desktop\cicd\Test\DllCveta\obj\Debug\net8.0\DllColor.AssemblyInfoInputs.cache
+C:\Users\Юзер\Desktop\cicd\Test\DllCveta\obj\Debug\net8.0\DllColor.AssemblyInfo.cs
+C:\Users\Юзер\Desktop\cicd\Test\DllCveta\obj\Debug\net8.0\DllColor.csproj.CoreCompileInputs.cache
+C:\Users\Юзер\Desktop\cicd\Test\DllCveta\obj\Debug\net8.0\DllColor.sourcelink.json
+C:\Users\Юзер\Desktop\cicd\Test\DllCveta\obj\Debug\net8.0\DllColor.dll
+C:\Users\Юзер\Desktop\cicd\Test\DllCveta\obj\Debug\net8.0\refint\DllColor.dll
+C:\Users\Юзер\Desktop\cicd\Test\DllCveta\obj\Debug\net8.0\DllColor.pdb
+C:\Users\Юзер\Desktop\cicd\Test\DllCveta\obj\Debug\net8.0\ref\DllColor.dll

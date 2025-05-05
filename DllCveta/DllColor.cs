@@ -7,6 +7,12 @@ namespace DllColor
     //Методы преобразования между различными цветовыми моделями (RGB, HEX, HSL) 
     public class ConverterColor
     {
+        public static int DaysBetween(DateTime dateTime1, DateTime dateTime2)
+        {
+            TimeSpan difference = dateTime2 - dateTime1;
+            return difference.Days;
+        }
+
         //метод преобразования цвета RGB в HEX
         //принимает структуру Color RGB
         //возвращает строку HEX цвета
@@ -23,8 +29,7 @@ namespace DllColor
             catch(Exception ex)
             {
                 return "Error when converting RGB to HEX";
-            }
-            
+            }            
         }
 
         //метод преобразования цвета HEX в RGB
